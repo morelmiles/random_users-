@@ -1,0 +1,26 @@
+{
+  "name": "random-users",
+  "version": "1.0.0",
+  "description": "An app that displays 10 users on every refresh ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morelmiles/random_users-.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "React",
+    "Users",
+    "Refresh"
+  ],
+  "author": "Luigi Morel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morelmiles/random_users-/issues"
+  },
+  "homepage": "https://github.com/morelmiles/random_users-#readme"
+}
